@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="567" height="259" viewBox="0 0 567 259">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#0F89E2" fill-opacity=".1">
+            <path d="M.461.024h565.622v43.29H.461zM.703 152.841h565.622v43.29H.703zM.703 75.841h565.622v43.29H.703z"/>
+        </g>
+        <g stroke-linecap="square">
+            <g stroke="#4A90E2">
+                <path d="M95.043 101l41 41M139.043 145l47 34M189.043 179l48-41M240.043 135l44-80M286.043 52l43-35M377.043 63l-45-46M426.043 105l-48-41M474.043 84l-44 21M522.043 31l-45 51M44.043 109l47-10"/>
+            </g>
+            <g fill="#4A90E2" stroke="#0F89E2" stroke-opacity=".1" stroke-width="5" transform="translate(39.543 12.683)">
+                <circle cx="3" cy="97" r="5.5"/>
+                <circle cx="53" cy="86" r="5.5"/>
+                <circle cx="98" cy="131" r="5.5"/>
+                <circle cx="484" cy="16" r="5.5"/>
+                <circle cx="436" cy="70" r="5.5"/>
+                <circle cx="389" cy="93" r="5.5"/>
+                <circle cx="339" cy="52" r="5.5"/>
+                <circle cx="291" cy="3" r="5.5"/>
+                <circle cx="245" cy="41" r="5.5"/>
+                <circle cx="199" cy="124" r="5.5"/>
+                <circle cx="148" cy="167" r="5.5"/>
+            </g>
+        </g>
+        <g fill="#9B9B9B" font-family="ProximaNova-Regular, Proxima Nova" font-size="14">
+            <text transform="translate(34.543 243.183)">
+                <tspan x=".218" y="14">12</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="46.685" y="14">13</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="93.678" y="14">14</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="140.954" y="14">15</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="188.947" y="14">16</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="236.479" y="14">17</tspan>
+            </text>
+            <text opacity=".8" transform="translate(34.543 243.183)">
+                <tspan x="282.51" y="14">18</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="329.947" y="14">19</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="377.557" y="14">20</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="428.468" y="14">21</tspan>
+            </text>
+            <text transform="translate(34.543 243.183)">
+                <tspan x="480.08" y="14">22</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
